@@ -8,7 +8,7 @@
 ## Системные требования:
 - React: 17.0.2,
 - React-dom: 17.0.2,
-- React-router-dom: 5.0.3,
+- React-router-dom: 5.3.0,
 - React-scripts: 5.0.0,
 - Web-vitals: 2.1.2
 - Node.js: 16.14.0
